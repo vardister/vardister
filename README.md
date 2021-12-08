@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vardister, a PhD student at the MIT/Woods Hole Joint-Program. I 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello there! I’m @vardister, a PhD student at the MIT/Woods Hole Joint-Program. 
+
+Interested in underwater acoustics, machine learning, scientific computing and acoustical oceanography. 
+
+You can always reach me at arielv (at) mit (dot) edu 
+
 
 <!---
 vardister/vardister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
