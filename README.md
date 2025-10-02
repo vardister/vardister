@@ -1,4 +1,4 @@
-Hello there! I’m @vardister, a PhD student at the MIT/Woods Hole Joint-Program. 
+Hello there! I’m @vardister, a recent PhD graduate from the MIT/Woods Hole Joint-Program. 
 
 Interested in underwater acoustics, machine learning, scientific computing and acoustical oceanography. 
 
